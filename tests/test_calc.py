@@ -6,3 +6,6 @@ def test_add():
 
 def test_add2():
     assert add(2, 3) == 6
+
+def test_add3():
+    assert add(2, 3) == 18
